@@ -9,7 +9,7 @@ Run build.bat
 if all is well, a file will appear in the build folder - FilenameMatching.exe
 
 Use:
-FilenameMatching.exe <name> <template>
+FilenameMatching.exe name template
 
 Example:
 FilenameMatching.exe c:/work/findme_if_you_can.txt c:/?or**m*_if_you_ca?.txt
